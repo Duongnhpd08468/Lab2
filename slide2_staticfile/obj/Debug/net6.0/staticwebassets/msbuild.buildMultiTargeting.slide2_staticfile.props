@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\slide2_staticfile.props" />
+</Project>

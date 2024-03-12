@@ -1,0 +1,17 @@
+﻿.form{
+    padding: 10px;
+    border-radius: 5px;
+}
+.tieude{
+    text-align: center;
+}
+.huongdan{
+    padding-bottom: 10px;
+}
+.check{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.dieukhoan{
+    display: flex;
+}
